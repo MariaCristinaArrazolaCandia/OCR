@@ -1,0 +1,43 @@
+========================================
+Archivo: factura1.jpg
+----------------------------------------
+Total Calculado: N/A
+Total Factura: N/A
+Coherente: No
+Error: No se extrajeron detalles o total
+========================================
+
+========================================
+Archivo: factura2.jpg
+----------------------------------------
+Total Calculado: N/A
+Total Factura: N/A
+Coherente: No
+Error: No se extrajeron detalles o total
+========================================
+
+========================================
+Archivo: factura3.jpg
+----------------------------------------
+Total Calculado: N/A
+Total Factura: N/A
+Coherente: No
+Error: No se extrajeron detalles o total
+========================================
+
+========================================
+Archivo: factura4.png
+----------------------------------------
+Total Calculado: 525.00
+Total Factura: 975.00
+Coherente: No
+========================================
+
+========================================
+Archivo: factura5.png
+----------------------------------------
+Total Calculado: 765.00
+Total Factura: 2250.00
+Coherente: No
+========================================
+
